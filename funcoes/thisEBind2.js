@@ -8,3 +8,6 @@ function Pessoa() {
     } /*.bind(this)*/, 1000)
 }
 new Pessoa
+
+// Ctrl +Alt + n inicia a aplicação
+// Ctrl +Alt + m encerra a aplicação
