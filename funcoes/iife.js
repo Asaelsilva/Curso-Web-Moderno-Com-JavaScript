@@ -1,4 +1,4 @@
-// IIFE -> Immediately Invoked Function Expression = Expressão de função invocada imediatamente
+// IIFE -> Immediately Invoked Function Expression = Expressão de função invocada imediatamente/ representado por ()
 
 (function () {
     console.log('Será executado na hora!')
