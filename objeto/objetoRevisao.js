@@ -37,7 +37,7 @@ const carro = {
 carro.proprietario.endereco.numero = 1000
 carro['proprietario'] ['endereço']['logradouro'] = 'Rua Martins'
 
-//delete carro.condutores
+delete carro.condutores
 delete carro.calcularValorSeguro
 console.log(carro)
 console.log(carro.condutores)
