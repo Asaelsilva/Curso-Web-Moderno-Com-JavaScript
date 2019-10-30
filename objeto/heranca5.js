@@ -17,8 +17,9 @@ Array.prototype.first = function () {
 console.log([1, 2, 3, 4, 5, 6]. first())
 console.log(['a', 'b', 'c', 'd']. first())
 
+
+//Nunca substituir comportamentos que já existe 
 String.prototype.toString = function () {
     return 'Lascou tudo'
 }
-
 console.log('Asael João da Silva'.reverse())
