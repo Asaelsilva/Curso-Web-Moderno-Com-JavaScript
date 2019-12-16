@@ -9,7 +9,7 @@ exports = null
 console.log(module.exports)
 
 exports = {
-    nome: 'teste'
+    nome: 'Teste'
 }
 
 console.log(module.exports)
